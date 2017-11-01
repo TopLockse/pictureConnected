@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+
+use_frameworks!
+
+target 'ExternalApp' do
+    pod 'FontAwesome.swift', :git => 'https://github.com/thii/FontAwesome.swift.git', :branch => 'swift-4.0'
+end
+

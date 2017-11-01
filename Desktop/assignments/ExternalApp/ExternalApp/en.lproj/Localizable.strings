@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  ExternalApp
+
+  Created by Niels Marsman on 07-10-2017.
+  Copyright © 2017 NielsMarsman. All rights reserved.
+*/
+
+// Buttons
+"button.accept" = "Aceept";
+"button.decline" = "Decline";
+"button.share" = "Share";
+"button.cancel" = "Cancel";
+
+// Select a file dialog
+"share.file.title" = "Share";
+"share.file.message" = "Choose how the selected file should be shared.";
+
+// Share view explaination
+"share.title" = "Sharing";
+"share.description" = "Click on a device to send a transfer invitation.";
+
+// Share request
+"share.request.title" = "Are you sure?";
+"share.request.message" = "Do you really want to share the selected file with \"%@\"?";
+
+// Connection states
+"share.state.idle" = "Idle";
+"share.state.scanning" = "Scanning...";
+"share.state.sending" = "Transfering";
+
+// Invitation dialog
+"invitation.title" = "Invitation";
+"invitation.description" = "\"%@\" wants to share a file with you, do you accept?";
+
+// File received
+//"received.title" = "";

@@ -1,0 +1,22 @@
+PODS:
+  - FontAwesome.swift (1.2.0)
+
+DEPENDENCIES:
+  - FontAwesome.swift (from `https://github.com/thii/FontAwesome.swift.git`, branch `swift-4.0`)
+
+EXTERNAL SOURCES:
+  FontAwesome.swift:
+    :branch: swift-4.0
+    :git: https://github.com/thii/FontAwesome.swift.git
+
+CHECKOUT OPTIONS:
+  FontAwesome.swift:
+    :commit: ee1bf6b3db08f969ec7508c0feca3bac0d8b96ff
+    :git: https://github.com/thii/FontAwesome.swift.git
+
+SPEC CHECKSUMS:
+  FontAwesome.swift: 609815397a9b51cb4d774969787163c7d1306739
+
+PODFILE CHECKSUM: 891545394115d068537ef35895c12d7337ba2843
+
+COCOAPODS: 1.4.0.beta.1
